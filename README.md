@@ -8,7 +8,7 @@ It's just like google docs where where every docs have unique id and multiple us
 
 ## Screenshot
 
-![Demo Screenshot](https://github.com/azhanali/azhan-docs.git/demo.png)
+![Demo Screenshot](demo.png)
 
   
 ## Run Locally
