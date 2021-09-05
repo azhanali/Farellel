@@ -1,5 +1,5 @@
 
-# Farellel  Files in Parallel
+# Farellel : Files in Parallel
 
 It's just like google docs where where every docs have unique id and multiple users can make changes simultaneously using that unique id.
 
